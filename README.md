@@ -8,7 +8,7 @@ Step 1: Click "Add pacMan" button to create pacmen at random position on the scr
 
 Step 2: Click "Start Game" button to move pacmen at axis with random velocity.
 
-## Future improvement
+## Future improvements
 
 The project can be further enhance by adding different pacmen with more creatives,animations and sound effects.
 
