@@ -1,4 +1,4 @@
-# PacMen Factory Exercise 
+# PacMen Project
 
 In this exercise is to create a pacman on demand (button click) and move these pacmen across the page.
 
