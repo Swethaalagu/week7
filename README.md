@@ -1,6 +1,6 @@
 # PacMen Project
 
-In this exercise is to create a pacman on demand (button click) and move these pacmen across the page.
+In this project is to create a pacman on demand (button click) and move these pacmen across the page.
 
 ## Steps to Run the Project
 
